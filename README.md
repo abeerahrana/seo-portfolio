@@ -55,7 +55,9 @@ SEO growth project focused on improving local search visibility, organic traffic
 ## 📸 Proof (Google Search Console)
 
 This data shows real SEO performance improvements achieved through keyword optimization, technical fixes, and improved indexing.
-![Google Search Console Performance](images/image01.jpg)
+
+https://github.com/abeerahrana/seo-portfolio/blob/main/images/Image01.jpg
+
 ---
 
 ## 🧠 Key Takeaway
