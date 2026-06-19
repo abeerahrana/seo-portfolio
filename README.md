@@ -24,7 +24,7 @@ I have worked on SEO projects across e-commerce, service-based businesses, and d
 
 ---
 
-## 🔥 Case Study: Wheel Guys (Automotive SEO)
+## 🔥 Case Study - 01: Wheel Guys (Automotive SEO)
 
 SEO growth project focused on improving local search visibility, organic traffic, and keyword rankings for an automotive service business.
 
@@ -98,11 +98,74 @@ This data shows real SEO performance improvements achieved through keyword optim
 
 ---
 
-## 📈 SEO Focus
-- Organic Traffic Growth  
-- Keyword Ranking Improvements  
-- Conversion-focused SEO Strategy  
-- Website Health & Technical Fixes  
+## 🔥 Case Study - 02: Alloy Wheels SEO Growth (Automotive Niche)
+
+SEO strategy focused on improving search visibility, ranking for high-competition automotive keywords, and increasing organic traffic for a service-based business.
+
+---
+
+## 🎯 Business Objective
+
+- Improve organic visibility for high-intent automotive keywords  
+- Rank for competitive keyword cluster around “alloy wheels”  
+- Increase qualified traffic to service pages  
+- Improve local search performance and customer enquiries  
+
+---
+
+## ❗ Initial Challenges
+
+- Low visibility in search engines for core service keywords  
+- No rankings for competitive “alloy wheels” keyword cluster  
+- Weak on-page SEO structure across service pages  
+- Limited keyword targeting and poor search intent alignment  
+- Low organic traffic from high-value search terms  
+
+---
+
+## 🔍 Keyword Strategy
+
+- Targeted high-competition head keyword: “alloy wheels”  
+- Built supporting long-tail keyword cluster:
+  - alloy wheels near me  
+  - buy alloy wheels  
+  - alloy wheel repair services  
+  - best alloy wheels for cars  
+
+- Focused on commercial + local search intent  
+- Grouped keywords into primary and secondary clusters for better ranking distribution  
+- Mapped keywords to relevant service pages for improved relevance  
+
+---
+
+## ⚙️ SEO Execution
+
+- Optimized service page titles, meta descriptions, and H1-H3 structure  
+- Improved content relevance for “alloy wheels” keyword cluster  
+- Strengthened internal linking between related automotive service pages  
+- Improved page structure for better crawling and indexing  
+- Enhanced local SEO signals for “near me” searches  
+- Improved content alignment with user search intent  
+
+---
+
+## 🧰 Tools Used
+
+- Google Search Console  
+- Google Analytics  
+- Keyword research tools (Ahrefs / SEMrush equivalents)  
+- Manual SERP analysis  
+- Screaming Frog (technical audit support)  
+
+---
+
+## 📈 Results Achieved
+
+- 📈 Increased visibility for “alloy wheels” keyword cluster  
+- 🔍 Improved rankings for multiple high-intent search queries  
+- 📊 Significant increase in impressions in Google Search Console  
+- 📍 Better visibility in local search results  
+- 📈 Steady upward growth in organic performance  
 
 ---
 
