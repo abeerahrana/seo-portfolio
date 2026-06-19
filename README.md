@@ -166,6 +166,14 @@ SEO strategy focused on improving search visibility, ranking for high-competitio
 - 📊 Significant increase in impressions in Google Search Console  
 - 📍 Better visibility in local search results  
 - 📈 Steady upward growth in organic performance  
+---
+
+## 📸 Proof (Google Search Console)
+
+This data shows real SEO performance improvements achieved through keyword optimization, technical fixes, and improved indexing.
+
+![Google Search Console](images/Image02.jpg)
+
 
 ---
 
