@@ -56,13 +56,8 @@ SEO growth project focused on improving local search visibility, organic traffic
 
 This data shows real SEO performance improvements achieved through keyword optimization, technical fixes, and improved indexing.
 
-https://github.com/abeerahrana/seo-portfolio/blob/main/images/Image01.jpg
+![Google Search Console](images/Image01.jpg)
 
----
-
-## 🧠 Key Takeaway
-
-Strong local SEO + technical optimization + keyword targeting can rapidly improve visibility even for new websites.
 ---
 
 ## 📈 SEO Focus
