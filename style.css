@@ -11,6 +11,20 @@ body {
   color: white;
 }
 
+.case-btn {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 10px 14px;
+  background: #0b1f3a;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  transition: 0.3s;
+}
+
+.case-btn:hover {
+  background: #c1121f;
+}
 /* NAVBAR */
 .navbar {
   display: flex;
