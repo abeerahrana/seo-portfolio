@@ -46,48 +46,52 @@ body {
 }
 
 .case-studies {
-  padding: 60px 20px;
+  padding: 70px 20px;
   background: #ffffff;
   text-align: center;
 }
 
 .case-studies h2 {
-  font-size: 32px;
+  font-size: 34px;
   color: #0b1f3a; /* dark blue */
   margin-bottom: 40px;
+  font-weight: 700;
 }
 
 .case-container {
   display: flex;
-  gap: 20px;
   justify-content: center;
+  gap: 25px;
   flex-wrap: wrap;
 }
 
 .case-box {
   background: #ffffff;
-  border: 2px solid #0b1f3a; /* dark blue border */
-  border-radius: 12px;
-  padding: 20px;
-  width: 300px;
-  box-shadow: 0 6px 20px rgba(11, 31, 58, 0.1);
+  border: 2px solid #0b1f3a;
+  border-radius: 14px;
+  padding: 25px;
+  width: 320px;
+  text-align: left;
+  box-shadow: 0 8px 25px rgba(11, 31, 58, 0.08);
   transition: 0.3s ease;
 }
 
 .case-box:hover {
-  transform: translateY(-5px);
-  border-color: #c1121f; /* red hover */
+  transform: translateY(-6px);
+  border-color: #c1121f; /* red accent */
 }
 
 .case-box h3 {
   color: #0b1f3a;
-  margin-bottom: 10px;
+  margin-bottom: 15px;
+  font-size: 20px;
 }
 
 .case-box p {
   color: #333;
   font-size: 14px;
   line-height: 1.6;
+  margin-bottom: 8px;
 }
 
 /* HERO */
