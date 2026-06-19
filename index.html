@@ -109,47 +109,6 @@
 <footer>
   <p>© 2026 Abeerah Rana | SEO Specialist</p>
 </footer>
-<script>
-function openCaseStudy(id) {
-  let content = "";
 
-  if (id === "case1") {
-    content = `
-      <h2>Wheel Guys SEO Project</h2>
-      <p><b>Business Objective:</b> Increase local search visibility</p>
-      <p><b>Challenge:</b> No domain authority</p>
-      <p><b>Result:</b> Improved keyword rankings</p>
-    `;
-  }
-
-  if (id === "case2") {
-    content = `
-      <h2>Local SEO Project</h2>
-      <p><b>Focus:</b> Service page ranking improvement</p>
-      <p><b>Result:</b> Better indexing and visibility</p>
-    `;
-  }
-
-  if (id === "case3") {
-    content = `
-      <h2>E-commerce SEO Project</h2>
-      <p><b>Focus:</b> Increase CTR and sales</p>
-      <p><b>Result:</b> Higher organic conversions</p>
-    `;
-  }
-
-  const modal = document.getElementById("caseModal");
-  const box = document.getElementById("caseContent");
-
-  console.log("DEBUG:", id, box); // 👈 important check
-
-  box.innerHTML = content;
-  modal.style.display = "block";
-}
-
-function closeCaseStudy() {
-  document.getElementById("caseModal").style.display = "none";
-}
-</script>
 </body>
 </html>
