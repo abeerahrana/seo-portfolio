@@ -2,14 +2,14 @@
 
 ## 🚀 Data-Driven Organic Growth Strategist
 
-I am an SEO specialist with **X+ years of experience** helping businesses improve organic traffic, keyword rankings, and lead generation through **technical SEO, on-page optimization, and content strategy**.
+I am an SEO specialist with **10+ years of experience** helping businesses improve organic traffic, keyword rankings, and lead generation through **technical SEO, on-page optimization, and content strategy**.
 
-I have worked on SEO projects across **e-commerce, service-based businesses, and digital platforms**, focusing on measurable growth using data-driven SEO strategies.
+I have worked on SEO projects across e-commerce, service-based businesses, and digital platforms**, focusing on measurable growth using data-driven SEO strategies.
 
 ---
 
 ### 📍 Experience
-**X+ Years in SEO & Digital Marketing**
+**10+ Years in SEO & Digital Marketing**
 
 ### 📊 Core Expertise
 - Technical SEO Audits  
@@ -36,4 +36,4 @@ I have worked on SEO projects across **e-commerce, service-based businesses, and
 
 ## 📬 Contact
 - Email: abeerahrana@gmail.com  
-- LinkedIn: your-linkedin-url  
+- LinkedIn: https://www.linkedin.com/in/abeerah/
