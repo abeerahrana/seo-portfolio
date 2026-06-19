@@ -74,12 +74,6 @@ This data shows real SEO performance improvements achieved through keyword optim
 
 ---
 
-## 🎯 Availability
-✔ Open to SEO roles (UK / Canada / Remote)  
-✔ Available for freelance SEO projects & audits  
-
----
-
 ## 📬 Contact
 
 - 📧 Email: abeerahrana@gmail.com  
