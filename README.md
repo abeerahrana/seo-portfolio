@@ -37,4 +37,4 @@ I have worked on SEO projects across e-commerce, service-based businesses, and d
 ## 📬 Contact
 
 - 📧 Email: abeerahrana@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/abeerah/
+- 🔗 LinkedIn: ## https://www.linkedin.com/in/abeerah/
