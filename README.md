@@ -172,7 +172,7 @@ SEO strategy focused on improving search visibility, ranking for high-competitio
 
 This data shows real SEO performance improvements achieved through keyword optimization, technical fixes, and improved indexing.
 
-![Google Search Console](images/Image02.jpg)
+![Google Search Console](images/alloy-wheels.jpg)
 
 
 ---
