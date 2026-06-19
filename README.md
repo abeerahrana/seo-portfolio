@@ -1,4 +1,8 @@
-# 👋 Hi, I'm an SEO Specialist
+# SEO Case Studies Portfolio
+
+Helping businesses grow organic traffic through SEO strategies, keyword research, and technical optimization.
+
+---
 
 ## 🚀 Data-Driven Organic Growth Strategist
 
@@ -17,8 +21,10 @@ I have worked on SEO projects across e-commerce, service-based businesses, and d
 - Keyword Research (Transactional + Informational)  
 - Content Strategy & Optimization  
 - SEO Performance Tracking (GSC, GA4)
+
 ---
-# 🔥 Case Study: Wheel Guys (Automotive SEO)
+
+## 🔥 Case Study: Wheel Guys (Automotive SEO)
 
 SEO growth project focused on improving local search visibility, organic traffic, and keyword rankings for an automotive service business.
 
