@@ -45,6 +45,51 @@ body {
   border-radius: 8px;
 }
 
+.case-studies {
+  padding: 60px 20px;
+  background: #ffffff;
+  text-align: center;
+}
+
+.case-studies h2 {
+  font-size: 32px;
+  color: #0b1f3a; /* dark blue */
+  margin-bottom: 40px;
+}
+
+.case-container {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.case-box {
+  background: #ffffff;
+  border: 2px solid #0b1f3a; /* dark blue border */
+  border-radius: 12px;
+  padding: 20px;
+  width: 300px;
+  box-shadow: 0 6px 20px rgba(11, 31, 58, 0.1);
+  transition: 0.3s ease;
+}
+
+.case-box:hover {
+  transform: translateY(-5px);
+  border-color: #c1121f; /* red hover */
+}
+
+.case-box h3 {
+  color: #0b1f3a;
+  margin-bottom: 10px;
+}
+
+.case-box p {
+  color: #333;
+  font-size: 14px;
+  line-height: 1.6;
+}
+
 /* HERO */
 .hero {
   padding: 100px 60px;
