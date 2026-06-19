@@ -1,4 +1,4 @@
-# SEO Case Studies Portfolio
+# SEO Manager
 
 Helping businesses grow organic traffic through SEO strategies, keyword research, and technical optimization.
 
