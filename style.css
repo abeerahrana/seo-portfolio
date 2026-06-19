@@ -82,6 +82,36 @@ h1, h2, h3, p {
 .card:hover {
   transform: translateY(-5px);
 }
+/* Skills */
+.skills-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.skill-card {
+  width: 250px;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  text-align: center;
+}
+
+/* Projects */
+.projects-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+}
+
+.project-card {
+  width: 400px;
+  padding: 30px;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+}
 
 /* BUTTONS */
 .btn-primary {
