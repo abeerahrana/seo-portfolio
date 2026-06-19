@@ -66,20 +66,17 @@ h1, h2, h3, p {
 /* GRID */
 .grid {
   display: flex;
-  gap: 20px;
   justify-content: center;
+  gap: 30px;
   flex-wrap: wrap;
-  margin-top: 20px;
 }
 
 /* CARDS */
-.card {
-  background: #ffffff;
-  border: 1px solid #ddd;
-  padding: 20px;
-  width: 250px;
-  border-radius: 10px;
-  transition: 0.3s ease;
+card {
+  width: 380px;
+  padding: 30px;
+  border-radius: 12px;
+  border: 1px solid #e5e7eb;
 }
 
 .card:hover {
