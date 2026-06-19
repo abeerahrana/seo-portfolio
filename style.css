@@ -35,9 +35,11 @@ p {
 }
 
 .hero p {
-  max-width: 600px;
-  margin: 10px auto 20px auto;
-  font-size: 18px;
+  max-width: 750px;
+  margin: 15px auto 25px auto;
+  font-size: 16px;
+  line-height: 1.7;
+  color: #333;
 }
 
 /* SECTIONS */
