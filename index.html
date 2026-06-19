@@ -108,6 +108,69 @@
 <footer>
   <p>© 2026 Abeerah Rana | SEO Specialist</p>
 </footer>
+<script>
+function openCaseStudy(id) {
+  let content = "";
 
+  if (id === "case1") {
+    content = `
+      <h2>Wheel Guys SEO Project</h2>
+
+      <h3>Business Objective</h3>
+      <p>Increase organic visibility in local search results and improve rankings for high-intent automotive keywords.</p>
+
+      <h3>Challenges</h3>
+      <p>- New website with no domain authority</p>
+      <p>- No keyword rankings</p>
+      <p>- Low organic traffic</p>
+
+      <h3>SEO Strategy</h3>
+      <p>- Local keyword targeting</p>
+      <p>- On-page optimization</p>
+      <p>- Technical SEO improvements</p>
+
+      <h3>Result</h3>
+      <p>Improved visibility in local search and early keyword ranking growth.</p>
+    `;
+  }
+
+  if (id === "case2") {
+    content = `
+      <h2>Local SEO Growth Project</h2>
+      <h3>Focus</h3>
+      <p>Improving keyword rankings for service-based business.</p>
+
+      <h3>Challenges</h3>
+      <p>- Zero Google visibility</p>
+      <p>- Weak SEO structure</p>
+
+      <h3>Result</h3>
+      <p>Indexed pages improved and keyword movement achieved.</p>
+    `;
+  }
+
+  if (id === "case3") {
+    content = `
+      <h2>E-commerce SEO Optimization</h2>
+      <h3>Focus</h3>
+      <p>Increase organic traffic and conversions.</p>
+
+      <h3>Challenges</h3>
+      <p>- Poor product page SEO</p>
+      <p>- Low CTR</p>
+
+      <h3>Result</h3>
+      <p>Better CTR, improved rankings, and increased organic sales.</p>
+    `;
+  }
+
+  document.getElementById("caseContent").innerHTML = content;
+  document.getElementById("caseModal").style.display = "block";
+}
+
+function closeCaseStudy() {
+  document.getElementById("caseModal").style.display = "none";
+}
+</script>
 </body>
 </html>
