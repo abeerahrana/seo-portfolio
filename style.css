@@ -152,3 +152,79 @@ footer {
   border-top: 1px solid #eee;
   margin-top: 40px;
 }
+
+/* CASE STUDY PAGE */
+
+.case-study {
+max-width: 1000px;
+margin: auto;
+padding: 50px 20px;
+}
+
+.back-btn {
+display: inline-block;
+margin-bottom: 30px;
+text-decoration: none;
+color: #0b1f3a;
+font-weight: 600;
+}
+
+.case-header {
+margin-bottom: 50px;
+}
+
+.case-header h1 {
+font-size: 42px;
+margin-bottom: 15px;
+}
+
+.subtitle {
+font-size: 18px;
+color: #555;
+max-width: 800px;
+}
+
+.case-section {
+margin-bottom: 50px;
+}
+
+.case-section h2 {
+margin-bottom: 20px;
+color: #0b1f3a;
+}
+
+.case-section ul {
+padding-left: 20px;
+}
+
+.case-section li {
+margin-bottom: 10px;
+}
+
+.results-grid {
+display: flex;
+gap: 20px;
+flex-wrap: wrap;
+margin-bottom: 25px;
+}
+
+.result-box {
+flex: 1;
+min-width: 220px;
+padding: 25px;
+border: 1px solid #e5e7eb;
+border-radius: 12px;
+text-align: center;
+}
+
+.result-box h3 {
+font-size: 32px;
+color: #0b1f3a;
+}
+
+.case-image {
+width: 100%;
+border-radius: 12px;
+margin-top: 20px;
+border: 1px solid #ddd;
+}
