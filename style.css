@@ -48,6 +48,18 @@ p {
   text-align: center;
 }
 
+h1, h2, h3, p {
+  margin: 0;
+}
+
+.section h2 {
+  margin-bottom: 25px;
+}
+
+.section {
+  padding: 60px 20px;
+}
+
 /* GRID */
 .grid {
   display: flex;
