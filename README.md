@@ -24,7 +24,7 @@ I have worked on SEO projects across e-commerce, service-based businesses, and d
 
 ---
 
-## 🔥 Case Study - 01: Wheel Guys (Automotive SEO)
+## 🔥 Case Study - 01: 100% Organic Traffic Growth Through SEO Strategy
 
 SEO growth project focused on improving local search visibility, organic traffic, and keyword rankings for an automotive service business.
 
@@ -98,7 +98,7 @@ This data shows real SEO performance improvements achieved through keyword optim
 
 ---
 
-## 🔥 Case Study - 02: Alloy Wheels SEO Growth (Automotive Niche)
+## 🔥 Case Study - 02: Ranked High-Competition Keywords on Page 1 of Google
 
 SEO strategy focused on improving search visibility, ranking for high-competition automotive keywords, and increasing organic traffic for a service-based business.
 
