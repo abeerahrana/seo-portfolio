@@ -1,71 +1,39 @@
-# Abeerah Zahid
+# 👋 Hi, I'm an SEO Specialist
 
-## Head of SEO | Digital Marketing Manager
+## 🚀 Data-Driven Organic Growth Strategist
 
-10+ years of experience helping UK businesses grow through SEO.
+I am an SEO specialist with **X+ years of experience** helping businesses improve organic traffic, keyword rankings, and lead generation through **technical SEO, on-page optimization, and content strategy**.
 
-## Key Skills
-
-- Technical SEO
-- Ecommerce SEO
-- Local SEO
-- Content Strategy
-- Link Building
-- Team Leadership
+I have worked on SEO projects across **e-commerce, service-based businesses, and digital platforms**, focusing on measurable growth using data-driven SEO strategies.
 
 ---
 
-# Featured Projects
+### 📍 Experience
+**X+ Years in SEO & Digital Marketing**
 
-## The Wheel Guys
-
-### My Role
-SEO Lead
-
-### What I Did
-- Technical SEO Audits
-- Keyword Research
-- Content Optimization
-- Developer Collaboration
-
-### Results
-- Improved organic visibility
-- Better rankings
-- Increased search performance
+### 📊 Core Expertise
+- Technical SEO Audits  
+- On-Page SEO Optimization  
+- Keyword Research (Transactional + Informational)  
+- Content Strategy & Optimization  
+- SEO Performance Tracking (GSC, GA4)
 
 ---
 
-## Magowan Tyres
-
-### My Role
-SEO Lead
-
-### What I Did
-- Technical SEO
-- Local SEO
-- Content Strategy
-
-### Results
-- Improved rankings
-- Better search visibility
+## 📈 SEO Focus
+- Organic Traffic Growth  
+- Keyword Ranking Improvements  
+- Conversion-focused SEO Strategy  
+- Website Health & Technical Fixes  
 
 ---
 
-## Elite Wheels & Tyres
-
-### My Role
-SEO Lead
-
-### What I Did
-- SEO Audits
-- Content Optimization
-- Technical SEO
-
-### Results
-- Increased organic growth
+## 🎯 Availability
+✔ Open to SEO roles (UK / Canada / Remote)  
+✔ Available for freelance SEO projects & audits  
 
 ---
 
-## Contact
-
-Email: abeerahrana@gmail.com
+## 📬 Contact
+- Email: abeerahrana@gmail.com  
+- LinkedIn: your-linkedin-url  
